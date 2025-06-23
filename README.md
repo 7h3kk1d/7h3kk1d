@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexander Bandukwala</h1>
-<p align="center">PhD student @ UMich • Programming Language Researcher • Live Programming Advocate</p>
+<p align="center">PhD student @ UMich • Programming Language Researcher • Live Programming Advocate • Ex-Software Engineer</p>
 
 <p align="center">
   <a href="https://bandukwala.me"><img src="https://img.shields.io/badge/Website-bandukwala.me-blue?style=flat-square&logo=internet-explorer" alt="Website"></a>
