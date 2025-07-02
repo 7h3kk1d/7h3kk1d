@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a PhD student and programming language researcher at the [Future of Programming Lab](https://neurocy.notion.site) at the University of Michigan, focusing on [Hazel](https://hazel.org), a live functional programming environment. My work is about making software more comprehensible, flexible, and extensible — empowering everyone, not just software experts.
+I’m a PhD student and programming language researcher at the [Future of Programming Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1) at the University of Michigan, focusing on [Hazel](https://hazel.org), a live functional programming environment. My work is about making software more comprehensible, flexible, and extensible — empowering everyone, not just software experts.
 
 **Interests:**
 - Live & Structured Programming
